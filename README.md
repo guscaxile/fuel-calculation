@@ -1,4 +1,4 @@
-# fuel-calculation
+# Fuel Calculation
 
 - a simple project that aims to calculate the fuel spent based on the distance traveled, which also returns the average consumption.
 
